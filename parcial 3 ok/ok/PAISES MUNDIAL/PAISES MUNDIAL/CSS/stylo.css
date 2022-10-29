@@ -1,0 +1,28 @@
+body
+{
+ 
+background-color: #6C1830;
+opacity:1;
+font-size: 16px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: oblique;
+}
+
+
+.submitBtn {
+  display: block;
+ 
+  padding: 15px 30px;
+  border: none;
+  background-color: rgb(12, 1, 12);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+ 
+}
+
+.submitBtn:hover {
+  background-color: #aa374e;
+  transform: translateY(-2px);
+}
